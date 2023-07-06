@@ -43,7 +43,7 @@ const Home = () => {
                     </div>
                 </div>
 
-                <h1 style={{marginTop:"40px"}}>The Latest</h1>
+                <h1 style={{marginTop:"-150px"}}>The Latest</h1>
                 <hr style={{ width: "200px", thickness: "20px" }} />
                 <div className="home__left left1">
                     {detail
@@ -92,9 +92,8 @@ const Home = () => {
                                 author={n.author}
                             />
                         ))}
-                </div>              
-                  <h1 style={{marginTop: "500px"}}>
-
+                </div>
+                <h1 style={{ marginTop: "40px", display: "inline-block" }}>
                     Latest Articles
                 </h1>
 

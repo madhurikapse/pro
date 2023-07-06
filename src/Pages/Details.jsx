@@ -82,7 +82,20 @@ const Details = (props) => {
             "category": "Bollywood",
             "description": "A video of Ranbir Kapoor cradling a baby had gone viral on the internet. In the video, Ranbir was seen carrying the little one in his arms, kisses on the head and continues to play with the baby. The fan shared the video on Instagram and wrote, Many social media users started tagging Alia Bhatt after watching the video. And the viral video of Ranbir's has finally got Alia's much-needed attention, and it got her happy tears."
         },
-
+        {
+            "id": 9,
+            "title": "Bollywood Deepika Padukone looks jaw droppingly stunning in latest photos",
+            "img": "https://www.pinkvilla.com/imageresize/deepika_69.jpg?width=752&format=webp&t=pvorg",
+            "category": "Bollywood",
+            "description": "Deepika Padukone never fails to impress us with her style. The stunning actress is an epitome of grace and charm. Deepika is the highest paid actress in the country today and has made it to the Top 5 of Forbes List of Richest Indian Celebs. The actor was featured in TIME magazine’s 100 Most Influential People List and is one of the few Indian actors to have attended coveted events abroad. "
+        },
+        {
+            "id": 10,
+            "title": "Bollywood Aishwarya Rai Bachchan, Abhishek Bachchan and daughter Aaradhya return ",
+            "img": "https://www.pinkvilla.com/imageresize/abhishek%20bachchan%20aishwarya%20aaradhya%20%282%29.JPG?width=752&format=webp&t=pvorg",
+            "category": "Bollywood",
+            "description": "Aishwarya Rai Bachchan, Abhishek Bachchan and daughter Aaradhya returned to Mumbai today after ringing in 2019 abroad. Abhishek and Aishwarya shared photos from their New Year getaway as the family basked in the sun. At the airport, daughter Aaradhya was engaged in a conversation with her parents and looked cute as a button in a pink dress."
+        },
         {
             "id": 11,
             "title": "Iron Man",
